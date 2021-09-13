@@ -88,7 +88,7 @@ question       >> In what year did Joseph Priestley recognize oxygen?
 predicted answer >> 1774
 ```
 
-refer to complete solution 👉 [here](https://github.com/krishnarevi/TSAI_END2.0_Session14/blob/main/part1_session14.ipynb).
+refer to complete solution 👉 [here](https://github.com/krishnarevi/Question-Answering-with-BERT/blob/main/BERT_QnA_System.ipynb).
 
 
 
